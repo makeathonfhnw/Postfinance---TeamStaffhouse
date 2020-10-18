@@ -1,0 +1,30 @@
+Microsoft
+Cisco
+oracle
+Fortinet
+Splunk
+IBM
+Sophos
+Palo Alto Networks
+McAfee
+Broadcom
+Trnd Micro
+RSA
+Dell
+FireEye
+Darktrace
+PHP
+Phython
+Java
+Java Script
+XSS
+CSRF
+TigerVNC
+VPN
+SMS
+Plugin
+APT
+POST
+CRM
+CMS
+ERP
